@@ -31,8 +31,8 @@ The project was completed as part of a multi-team industrial automation effort i
 
 ### Mechanical Design
 
-- Designed a custom funnel component in Autodesk Inventor
-- Optimized part alignment to improve sensor reliability
+- Designed a custom funnel component in Autodesk Inventor.
+- Attatched to the converyor belt, it optimizes part alignment to improve sensor reliability
 
 ### System Integration
 
@@ -69,9 +69,10 @@ The project was completed as part of a multi-team industrial automation effort i
 
 ## Demonstration
 
-Video of the system in operation:
+Click the image below to watch the system in operation.
 
-https://youtu.be/8ro87KnF2Fk
+[![Automated Conveyor Sorting System Demo](<img width="1372" height="774" alt="image" src="https://github.com/user-attachments/assets/b205286e-ec6f-462a-8209-aa64070d6f21" />
+)](https://youtu.be/8ro87KnF2Fk)
 
 ---
 
